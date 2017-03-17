@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "org.marcos.proyectoGrado"
+        }
+    }
+}
