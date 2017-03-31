@@ -40,19 +40,15 @@
 
     <link rel="stylesheet" type="text/css" href="css/index.css" />
     <title>easybus</title>
-    <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
-    <script src="//code.jquerygeo.com/jquery.geo-1.0.0-rc1.min.js"></script>
+    <!--Script para el funcionamiento logico de la aplicación-->
+    <script type="text/javascript"
+  	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA5wuAkIl3OxecBuUOdtd9Exc8lTLbGXas&callback=initMap" async defer>	</script>
+  	<script type="text/javascript" src="js/map.js"></script>
 </head>
 
 <body>
-
-  <script type="text/javascript"
-	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA5wuAkIl3OxecBuUOdtd9Exc8lTLbGXas&callback=initMap" async defer>	</script>
-	<script type="text/javascript" src="js/map.js"></script>
+  <!--mapa-->
   <div id="map"> </div>
-
-
-
 </body>
 
 </html>
